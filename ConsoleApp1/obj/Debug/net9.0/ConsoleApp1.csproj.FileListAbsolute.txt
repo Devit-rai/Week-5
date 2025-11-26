@@ -1,0 +1,15 @@
+/Users/davidrai/App Develpoment/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1
+/Users/davidrai/App Develpoment/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.deps.json
+/Users/davidrai/App Develpoment/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.runtimeconfig.json
+/Users/davidrai/App Develpoment/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.dll
+/Users/davidrai/App Develpoment/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.pdb
+/Users/davidrai/App Develpoment/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidrai/App Develpoment/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/davidrai/App Develpoment/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfo.cs
+/Users/davidrai/App Develpoment/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/davidrai/App Develpoment/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.sourcelink.json
+/Users/davidrai/App Develpoment/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.dll
+/Users/davidrai/App Develpoment/ConsoleApp1/obj/Debug/net9.0/refint/ConsoleApp1.dll
+/Users/davidrai/App Develpoment/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.pdb
+/Users/davidrai/App Develpoment/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.genruntimeconfig.cache
+/Users/davidrai/App Develpoment/ConsoleApp1/obj/Debug/net9.0/ref/ConsoleApp1.dll
